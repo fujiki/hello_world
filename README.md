@@ -1,4 +1,2 @@
 # hello_world
-hello world!
-
-hello world test!
+This a test.
